@@ -1,1 +1,1 @@
-# ad8-resource
+# ad8-resources
